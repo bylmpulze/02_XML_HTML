@@ -1,0 +1,14 @@
+<wurzel>
+    <stamm>
+        <ast>
+            <zweig>
+                <blatt farbe = "grün">
+                </blatt>
+            </zweig>
+        </ast>
+        <ast>
+        </ast>
+        <ast>
+        </ast>
+    </stamm>
+</wurzel>
